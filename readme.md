@@ -1,4 +1,4 @@
-**Leave application using Rest Assured and TestNG.**
+**UserBlog Testing using Rest Assured and TestNG.**
 
 The framework is for created for Validating API's of user blog.
 
